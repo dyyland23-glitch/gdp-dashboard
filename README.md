@@ -1,5 +1,3 @@
-
-Markdown
 # 🌎 GDP Dashboard Template
 
 An interactive [Streamlit](https://github.com/dyyland23-glitch/gdp-dashboard/blob/main/streamlit_app.py) web application designed to visualize and analyze the Gross Domestic Product (GDP) of different countries around the world.
